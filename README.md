@@ -1,15 +1,23 @@
-# Myrawej Development Portfolio
+# Myrawej Dev Portfolio
 
-## Game Developer & Backend Engineer
+## 🧠 AI-Augmented Game Architect · Solo Fullstack Dev with LLM Power
 
-Разработчик игр и backend систем с фокусом на высокопроизводительные 
-многопользовательские решения. Специализируюсь на Unity, Go и масштабируемых 
-архитектурах для мобильных игр.
+Привет, я Myrawej — не совсем программист, но точно создатель.  
+Я называю себя **инди-аналитик с агентным кодированием**: всё, что ты видишь, построено мной — руками и с помощью LLM.
+
+Я не пишу код «по приколу». Я проектирую целые системы:  
+🔧 формульные движки,  
+🔁 hot-reload пайплайны,  
+🧪 плагины и sandbox'ы,  
+📐 архитектуру, где каждый модуль — пазл, который можно заменить без боли.
+
+⚡ Использую LLM как инструмент ускорения: от идеи до рабочей фичи — за пару запросов и десятки миллионов токенов.  
+🧠 Но при этом всё продумано, протестировано, и задокументировано до байта.
 
 
 ### 🛠️ Технологический стек
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="40" height="40" title="Go"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" title="HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" title="CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Shell" width="40" height="40" title="Shell">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="40" height="40" title="Go"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" title="HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" title="CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" alt="SCSS" width="40" height="40" title="SCSS">
 
 ---
 
@@ -18,20 +26,20 @@
 ### Общее распределение языков программирования
 
 <div align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Go%22%2C%20%22C%23%22%2C%20%22JavaScript%22%2C%20%22TypeScript%22%2C%20%22Python%22%2C%20%22HTML%22%2C%20%22Other%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B2896.3%2C%201682.8%2C%20145.8%2C%201204.7%2C%2070.3%2C%20286.1%2C%2099.1%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23FF6384%22%2C%20%22%2336A2EB%22%2C%20%22%23FFCE56%22%2C%20%22%234BC0C0%22%2C%20%22%239966FF%22%2C%20%22%23FF9F40%22%2C%20%22%23FF6384%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22%5Cu041e%5Cu0431%5Cu0449%5Cu0435%5Cu0435%20%5Cu0440%5Cu0430%5Cu0441%5Cu043f%5Cu0440%5Cu0435%5Cu0434%5Cu0435%5Cu043b%5Cu0435%5Cu043d%5Cu0438%5Cu0435%20%5Cu044f%5Cu0437%5Cu044b%5Cu043a%5Cu043e%5Cu0432%22%2C%20%22fontSize%22%3A%2016%7D%2C%20%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%2C%20%22labels%22%3A%20%7B%22fontSize%22%3A%2012%7D%7D%2C%20%22tooltips%22%3A%20%7B%22callbacks%22%3A%20%7B%22label%22%3A%20%22function%28tooltipItem%2C%20data%29%20%7B%20const%20label%20%3D%20data.labels%5BtooltipItem.index%5D%3B%20const%20value%20%3D%20data.datasets%5B0%5D.data%5BtooltipItem.index%5D%3B%20const%20total%20%3D%20data.datasets%5B0%5D.data.reduce%28%28a%2C%20b%29%20%3D%3E%20a%20%2B%20b%2C%200%29%3B%20const%20percentage%20%3D%20Math.round%28%28value%20/%20total%29%20%2A%20100%29%3B%20return%20label%20%2B%20%5C%22%3A%20%5C%22%20%2B%20value%20%2B%20%5C%22%20%5Cu041a%5Cu0411%20%28%5C%22%20%2B%20percentage%20%2B%20%5C%22%25%29%5C%22%3B%20%7D%22%7D%7D%2C%20%22plugins%22%3A%20%7B%22datalabels%22%3A%20%7B%22formatter%22%3A%20%22%28value%2C%20context%29%20%3D%3E%20%7B%20const%20total%20%3D%20context.dataset.data.reduce%28%28a%2C%20b%29%20%3D%3E%20a%20%2B%20b%2C%200%29%3B%20const%20percentage%20%3D%20Math.round%28%28value%20/%20total%29%20%2A%20100%29%3B%20return%20percentage%20%3E%205%20%3F%20percentage%20%2B%20%5C%22%25%5C%22%20%3A%20%5C%22%5C%22%3B%20%7D%22%2C%20%22color%22%3A%20%22white%22%2C%20%22font%22%3A%20%7B%22weight%22%3A%20%22bold%22%7D%7D%7D%7D%7D&width=600&height=400&format=svg" alt="Общая статистика языков" />
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Go%22%2C%20%22C%23%22%2C%20%22TypeScript%22%2C%20%22Other%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B2978.0%2C%201682.8%2C%201204.7%2C%20534.3%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23FF6384%22%2C%20%22%2336A2EB%22%2C%20%22%23FFCE56%22%2C%20%22%234BC0C0%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22%5Cu041e%5Cu0431%5Cu0449%5Cu0435%5Cu0435%20%5Cu0440%5Cu0430%5Cu0441%5Cu043f%5Cu0440%5Cu0435%5Cu0434%5Cu0435%5Cu043b%5Cu0435%5Cu043d%5Cu0438%5Cu0435%20%5Cu044f%5Cu0437%5Cu044b%5Cu043a%5Cu043e%5Cu0432%22%2C%20%22fontSize%22%3A%2016%7D%2C%20%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%2C%20%22labels%22%3A%20%7B%22fontSize%22%3A%2012%7D%7D%2C%20%22tooltips%22%3A%20%7B%22callbacks%22%3A%20%7B%22label%22%3A%20%22function%28tooltipItem%2C%20data%29%20%7B%20const%20label%20%3D%20data.labels%5BtooltipItem.index%5D%3B%20const%20value%20%3D%20data.datasets%5B0%5D.data%5BtooltipItem.index%5D%3B%20const%20total%20%3D%20data.datasets%5B0%5D.data.reduce%28%28a%2C%20b%29%20%3D%3E%20a%20%2B%20b%2C%200%29%3B%20const%20percentage%20%3D%20Math.round%28%28value%20/%20total%29%20%2A%20100%29%3B%20return%20label%20%2B%20%5C%22%3A%20%5C%22%20%2B%20value%20%2B%20%5C%22%20%5Cu041a%5Cu0411%20%28%5C%22%20%2B%20percentage%20%2B%20%5C%22%25%29%5C%22%3B%20%7D%22%7D%7D%2C%20%22plugins%22%3A%20%7B%22datalabels%22%3A%20%7B%22formatter%22%3A%20%22%28value%2C%20context%29%20%3D%3E%20%7B%20const%20total%20%3D%20context.dataset.data.reduce%28%28a%2C%20b%29%20%3D%3E%20a%20%2B%20b%2C%200%29%3B%20const%20percentage%20%3D%20Math.round%28%28value%20/%20total%29%20%2A%20100%29%3B%20return%20percentage%20%3E%205%20%3F%20percentage%20%2B%20%5C%22%25%5C%22%20%3A%20%5C%22%5C%22%3B%20%7D%22%2C%20%22color%22%3A%20%22white%22%2C%20%22font%22%3A%20%7B%22weight%22%3A%20%22bold%22%7D%7D%7D%7D%7D&width=600&height=400&format=svg" alt="Общая статистика языков" />
 </div>
 
 **Сводка:**
 - 📂 **Репозиториев:** 8
-- 💻 **Всего коммитов:** 7402
-- ⏱️ **Время в коде:** 222.8 часов
-- 🔄 **Последнее обновление:** 17.06.2025 23:25
+- 💻 **Всего коммитов:** 7834
+- ⏱️ **Время в коде:** 230.1 часов
+- 🔄 **Последнее обновление:** 18.06.2025 23:40
 
 ### Топ-3 активных проекта
 
 <div align="center">
 
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Go%22%2C%20%22JavaScript%22%2C%20%22Python%22%2C%20%22HTML%22%2C%20%22CSS%22%2C%20%22Other%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B2768.1%2C%2075.9%2C%2060.7%2C%20286.1%2C%2034.3%2C%2023.9%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23FF6384%22%2C%20%22%2336A2EB%22%2C%20%22%23FFCE56%22%2C%20%22%234BC0C0%22%2C%20%22%239966FF%22%2C%20%22%23FF9F40%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22GoLangServer%22%2C%20%22fontSize%22%3A%2014%7D%2C%20%22legend%22%3A%20%7B%22position%22%3A%20%22right%22%2C%20%22labels%22%3A%20%7B%22fontSize%22%3A%2010%7D%7D%2C%20%22tooltips%22%3A%20%7B%22callbacks%22%3A%20%7B%22label%22%3A%20%22function%28tooltipItem%2C%20data%29%20%7B%20const%20label%20%3D%20data.labels%5BtooltipItem.index%5D%3B%20const%20value%20%3D%20data.datasets%5B0%5D.data%5BtooltipItem.index%5D%3B%20const%20total%20%3D%20data.datasets%5B0%5D.data.reduce%28%28a%2C%20b%29%20%3D%3E%20a%20%2B%20b%2C%200%29%3B%20const%20percentage%20%3D%20Math.round%28%28value%20/%20total%29%20%2A%20100%29%3B%20return%20label%20%2B%20%5C%22%3A%20%5C%22%20%2B%20value%20%2B%20%5C%22%20%5Cu041a%5Cu0411%20%28%5C%22%20%2B%20percentage%20%2B%20%5C%22%25%29%5C%22%3B%20%7D%22%7D%7D%2C%20%22plugins%22%3A%20%7B%22datalabels%22%3A%20%7B%22formatter%22%3A%20%22%28value%2C%20context%29%20%3D%3E%20%7B%20const%20total%20%3D%20context.dataset.data.reduce%28%28a%2C%20b%29%20%3D%3E%20a%20%2B%20b%2C%200%29%3B%20const%20percentage%20%3D%20Math.round%28%28value%20/%20total%29%20%2A%20100%29%3B%20return%20percentage%20%3E%205%20%3F%20percentage%20%2B%20%5C%22%25%5C%22%20%3A%20%5C%22%5C%22%3B%20%7D%22%2C%20%22color%22%3A%20%22white%22%2C%20%22font%22%3A%20%7B%22weight%22%3A%20%22bold%22%7D%7D%7D%7D%7D&width=300&height=200&format=svg" alt="GoLangServer языки" style="margin: 10px;" />
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Go%22%2C%20%22HTML%22%2C%20%22Other%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B2849.8%2C%20286.1%2C%20127.8%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23FF6384%22%2C%20%22%2336A2EB%22%2C%20%22%23FFCE56%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22GoLangServer%22%2C%20%22fontSize%22%3A%2014%7D%2C%20%22legend%22%3A%20%7B%22position%22%3A%20%22right%22%2C%20%22labels%22%3A%20%7B%22fontSize%22%3A%2010%7D%7D%2C%20%22tooltips%22%3A%20%7B%22callbacks%22%3A%20%7B%22label%22%3A%20%22function%28tooltipItem%2C%20data%29%20%7B%20const%20label%20%3D%20data.labels%5BtooltipItem.index%5D%3B%20const%20value%20%3D%20data.datasets%5B0%5D.data%5BtooltipItem.index%5D%3B%20const%20total%20%3D%20data.datasets%5B0%5D.data.reduce%28%28a%2C%20b%29%20%3D%3E%20a%20%2B%20b%2C%200%29%3B%20const%20percentage%20%3D%20Math.round%28%28value%20/%20total%29%20%2A%20100%29%3B%20return%20label%20%2B%20%5C%22%3A%20%5C%22%20%2B%20value%20%2B%20%5C%22%20%5Cu041a%5Cu0411%20%28%5C%22%20%2B%20percentage%20%2B%20%5C%22%25%29%5C%22%3B%20%7D%22%7D%7D%2C%20%22plugins%22%3A%20%7B%22datalabels%22%3A%20%7B%22formatter%22%3A%20%22%28value%2C%20context%29%20%3D%3E%20%7B%20const%20total%20%3D%20context.dataset.data.reduce%28%28a%2C%20b%29%20%3D%3E%20a%20%2B%20b%2C%200%29%3B%20const%20percentage%20%3D%20Math.round%28%28value%20/%20total%29%20%2A%20100%29%3B%20return%20percentage%20%3E%205%20%3F%20percentage%20%2B%20%5C%22%25%5C%22%20%3A%20%5C%22%5C%22%3B%20%7D%22%2C%20%22color%22%3A%20%22white%22%2C%20%22font%22%3A%20%7B%22weight%22%3A%20%22bold%22%7D%7D%7D%7D%7D&width=300&height=200&format=svg" alt="GoLangServer языки" style="margin: 10px;" />
 
   <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22C%23%22%2C%20%22Other%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B1622.1%2C%204.5%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23FF6384%22%2C%20%22%2336A2EB%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22FallenUnity%22%2C%20%22fontSize%22%3A%2014%7D%2C%20%22legend%22%3A%20%7B%22position%22%3A%20%22right%22%2C%20%22labels%22%3A%20%7B%22fontSize%22%3A%2010%7D%7D%2C%20%22tooltips%22%3A%20%7B%22callbacks%22%3A%20%7B%22label%22%3A%20%22function%28tooltipItem%2C%20data%29%20%7B%20const%20label%20%3D%20data.labels%5BtooltipItem.index%5D%3B%20const%20value%20%3D%20data.datasets%5B0%5D.data%5BtooltipItem.index%5D%3B%20const%20total%20%3D%20data.datasets%5B0%5D.data.reduce%28%28a%2C%20b%29%20%3D%3E%20a%20%2B%20b%2C%200%29%3B%20const%20percentage%20%3D%20Math.round%28%28value%20/%20total%29%20%2A%20100%29%3B%20return%20label%20%2B%20%5C%22%3A%20%5C%22%20%2B%20value%20%2B%20%5C%22%20%5Cu041a%5Cu0411%20%28%5C%22%20%2B%20percentage%20%2B%20%5C%22%25%29%5C%22%3B%20%7D%22%7D%7D%2C%20%22plugins%22%3A%20%7B%22datalabels%22%3A%20%7B%22formatter%22%3A%20%22%28value%2C%20context%29%20%3D%3E%20%7B%20const%20total%20%3D%20context.dataset.data.reduce%28%28a%2C%20b%29%20%3D%3E%20a%20%2B%20b%2C%200%29%3B%20const%20percentage%20%3D%20Math.round%28%28value%20/%20total%29%20%2A%20100%29%3B%20return%20percentage%20%3E%205%20%3F%20percentage%20%2B%20%5C%22%25%5C%22%20%3A%20%5C%22%5C%22%3B%20%7D%22%2C%20%22color%22%3A%20%22white%22%2C%20%22font%22%3A%20%7B%22weight%22%3A%20%22bold%22%7D%7D%7D%7D%7D&width=300&height=200&format=svg" alt="FallenUnity языки" style="margin: 10px;" />
 
@@ -46,31 +54,32 @@
 
 ### Go Game Backend Server
 
-Высокопроизводительный backend сервер для многопользовательской мобильной игры.
-Архитектура основана на модульной системе с поддержкой тысяч одновременных игроков.
+⚙️ Production-ready backend-движок для игры, построенный как ядро формульной системы.  
+🔥 Hot Reload, 🧠 A/B тесты, 🔌 плагинная архитектура, 🌐 WebSocket в real-time — всё как в больших.
+Разработан соло — с нуля и до состояния «можно не трогать».
 
 
 **Структура проекта:**
 
 - 📁 **cmd**: 1 файлов, 19.5 КБ
   - Подпапки: 2 (cmd, server)
-  - Последнее обновление: 17.06.2025 19:59
+  - Последнее обновление: 18.06.2025 19:26
 
 - 📁 **pkg**: 25 файлов, 317.1 КБ
-  - Подпапки: 5 (pkg, logger, utils...)
-  - Последнее обновление: 17.06.2025 19:59
+  - Подпапки: 5 (pkg, metrics, utils...)
+  - Последнее обновление: 18.06.2025 19:26
 
 - 📁 **domain**: 28 файлов, 140.7 КБ
-  - Подпапки: 7 (services, values, interfaces...)
-  - Последнее обновление: 17.06.2025 19:59
+  - Подпапки: 7 (values, interfaces, domain...)
+  - Последнее обновление: 18.06.2025 19:26
 
-- 📁 **infrastructure**: 86 файлов, 949.4 КБ
-  - Подпапки: 10 (firebase, circuit, datastore...)
-  - Последнее обновление: 17.06.2025 19:59
+- 📁 **infrastructure**: 87 файлов, 951.3 КБ
+  - Подпапки: 10 (redis, infrastructure, firebase...)
+  - Последнее обновление: 18.06.2025 19:26
 
-- 📁 **application**: 206 файлов, 2854.8 КБ
-  - Подпапки: 9 (services, admin, usecases...)
-  - Последнее обновление: 17.06.2025 19:59
+- 📁 **application**: 211 файлов, 2948.8 КБ
+  - Подпапки: 9 (middleware, container, usecases...)
+  - Последнее обновление: 18.06.2025 19:26
 
 ### FallenUnity
 
@@ -83,11 +92,11 @@ My Unity Game Project
 
 ## 🎯 Области специализации
 
-- Многопользовательские игровые серверы
-- Unity мобильная разработка
-- Системы реального времени
-- Высоконагруженные backend системы
-- Game Analytics & Metrics
+- 🧠 Agentic Coding & Prompt Engineering
+- 🎯 Zero-downtime Formula Execution Engines
+- 🎮 Multiplayer Backend Architectures
+- 🔌 Hot-Swappable Plugin Systems
+- 📊 Game Metrics, A/B Testing & Observability
 
 
 ### Текущий технологический стек
@@ -97,19 +106,22 @@ My Unity Game Project
 - Socket.IO v4
 - Redis
 - Firebase
+- Lua VM
 - Docker
 
 **Frontend:**
 - Unity 6000.1.42
 - C# 11
-- React (веб-панели)
+- React
 - TypeScript
+- DOTween / UniTask / VContainer
 
 **DevOps:**
-- Ubuntu 24.04
-- Git workflows
+- Ubuntu 25.04
 - Docker Compose
-- Monitoring стек
+- Prometheus + Grafana
+- Telegram Monitoring
+- GitHub Actions CI/CD
 
 
 ---
@@ -123,9 +135,9 @@ My Unity Game Project
 
 
 **GoLangServer:**
-- Общее время: 91.3 часов
-- Сессий кодирования: 70
-- Средняя длительность сессии: 78.3 минут
+- Общее время: 98.6 часов
+- Сессий кодирования: 76
+- Средняя длительность сессии: 77.8 минут
 - Самая длинная сессия: 319.4 минут
 
 
@@ -180,16 +192,17 @@ My Unity Game Project
 
 ### Статистика языков (детально)
 
-- **Go**: 45.4% (2896.3 КБ)
-- **C#**: 26.4% (1682.8 КБ)
-- **TypeScript**: 18.9% (1204.7 КБ)
+- **Go**: 46.5% (2978.0 КБ)
+- **C#**: 26.3% (1682.8 КБ)
+- **TypeScript**: 18.8% (1204.7 КБ)
 - **HTML**: 4.5% (286.1 КБ)
 - **JavaScript**: 2.3% (145.8 КБ)
-- **Python**: 1.1% (70.3 КБ)
 - **CSS**: 0.8% (49.9 КБ)
-- **Shell**: 0.4% (26.1 КБ)
+- **Python**: 0.3% (17.8 КБ)
 - **SCSS**: 0.3% (17.3 КБ)
+- **Bluespec**: 0.1% (9.5 КБ)
 - **ShaderLab**: 0.1% (4.5 КБ)
+- **Shell**: 0.0% (2.2 КБ)
 - **Batchfile**: 0.0% (1.2 КБ)
 
 
@@ -199,21 +212,5 @@ My Unity Game Project
 
 <div align="center">
   <i>Этот README автоматически обновляется с помощью GitHub Analytics Dashboard</i><br>
-  <small>Последнее обновление: 17.06.2025 23:25</small>
+  <small>Последнее обновление: 18.06.2025 23:40</small>
 </div>
-
-
-<!--
-**Myrawej/Myrawej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
