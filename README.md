@@ -14,10 +14,40 @@
 ⚡ Использую LLM как инструмент ускорения: от идеи до рабочей фичи — за пару запросов и десятки миллионов токенов.  
 🧠 Но при этом всё продумано, протестировано, и задокументировано до байта.
 
-
 ### 🛠️ Технологический стек
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="40" height="40" title="Go"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" title="HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" title="CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg" alt="SCSS" width="40" height="40" title="SCSS">
+<p align="left">
+  <!-- Языки -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" alt="Go" width="40" height="40" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" alt="Lua" width="40" height="40" title="Lua"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" alt="SCSS/SASS" width="40" height="40" title="SASS/SCSS"/>
+  <!-- Фреймворки -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" title="Vue.js"/>
+  <!-- IDE -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" title="VS Code"/>
+  <img src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" alt="Rider" width="40" height="40" title="JetBrains Rider"/>
+  <img src="https://resources.jetbrains.com/storage/products/webstorm/img/meta/webstorm_logo_300x300.png" alt="WebStorm" width="40" height="40" title="JetBrains WebStorm"/>
+  <!-- Бэкенд и базы -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40" title="Firebase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis" width="40" height="40" title="Redis"/>
+  <!-- DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" title="Docker"/>
+  
+  <br>
+  
+  <!-- Иконки с белой подложкой -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" title="Next.js" style="background-color:white; padding:1px; border-radius:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" alt="Socket.IO" width="40" height="40" title="Socket.IO" style="background-color:white; padding:1px; border-radius:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40" title="Ubuntu" style="background-color:white; padding:1px; border-radius:10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40" title="Markdown" style="background-color:white; padding:1px; border-radius:10px;"/>
+</p>
 
 ---
 
@@ -30,6 +60,7 @@
 </div>
 
 **Сводка:**
+
 - 📂 **Репозиториев:** 8
 - 💻 **Всего коммитов:** 7834
 - ⏱️ **Время в коде:** 230.1 часов
@@ -51,13 +82,11 @@
 
 ## 🏗️ Архитектура проектов
 
-
 ### Go Game Backend Server
 
 ⚙️ Production-ready backend-движок для игры, построенный как ядро формульной системы.  
 🔥 Hot Reload, 🧠 A/B тесты, 🔌 плагинная архитектура, 🌐 WebSocket в real-time — всё как в больших.
 Разработан соло — с нуля и до состояния «можно не трогать».
-
 
 **Структура проекта:**
 
@@ -87,7 +116,6 @@ My Unity Game Project
 
 **Структура проекта:**
 
-
 ---
 
 ## 🎯 Области специализации
@@ -98,10 +126,10 @@ My Unity Game Project
 - 🔌 Hot-Swappable Plugin Systems
 - 📊 Game Metrics, A/B Testing & Observability
 
-
 ### Текущий технологический стек
 
 **Backend:**
+
 - Go 1.21+
 - Socket.IO v4
 - Redis
@@ -110,6 +138,7 @@ My Unity Game Project
 - Docker
 
 **Frontend:**
+
 - Unity 6000.1.42
 - C# 11
 - React
@@ -117,12 +146,12 @@ My Unity Game Project
 - DOTween / UniTask / VContainer
 
 **DevOps:**
+
 - Ubuntu 25.04
 - Docker Compose
 - Prometheus + Grafana
 - Telegram Monitoring
 - GitHub Actions CI/CD
-
 
 ---
 
@@ -133,62 +162,61 @@ My Unity Game Project
 
 ### Время разработки по проектам
 
-
 **GoLangServer:**
+
 - Общее время: 98.6 часов
 - Сессий кодирования: 76
 - Средняя длительность сессии: 77.8 минут
 - Самая длинная сессия: 319.4 минут
 
-
 **myrawej.website:**
+
 - Общее время: 8.8 часов
 - Сессий кодирования: 18
 - Средняя длительность сессии: 29.4 минут
 - Самая длинная сессия: 64.5 минут
 
-
 **myrawej.website.cdn:**
+
 - Общее время: 7.1 часов
 - Сессий кодирования: 5
 - Средняя длительность сессии: 85.7 минут
 - Самая длинная сессия: 258.7 минут
 
-
 **FallenUnity:**
+
 - Общее время: 82.9 часов
 - Сессий кодирования: 65
 - Средняя длительность сессии: 76.5 минут
 - Самая длинная сессия: 285.3 минут
 
-
 **NestTsServer:**
+
 - Общее время: 0.3 часов
 - Сессий кодирования: 1
 - Средняя длительность сессии: 20.0 минут
 - Самая длинная сессия: 20.0 минут
 
-
 **FallenServer:**
+
 - Общее время: 31.4 часов
 - Сессий кодирования: 14
 - Средняя длительность сессии: 134.6 минут
 - Самая длинная сессия: 462.1 минут
 
-
 **NewFallen:**
+
 - Общее время: 0.3 часов
 - Сессий кодирования: 1
 - Средняя длительность сессии: 20.0 минут
 - Самая длинная сессия: 20.0 минут
 
-
 **FallenRider:**
+
 - Общее время: 0.7 часов
 - Сессий кодирования: 1
 - Средняя длительность сессии: 41.7 минут
 - Самая длинная сессия: 41.7 минут
-
 
 ### Статистика языков (детально)
 
@@ -204,7 +232,6 @@ My Unity Game Project
 - **ShaderLab**: 0.1% (4.5 КБ)
 - **Shell**: 0.0% (2.2 КБ)
 - **Batchfile**: 0.0% (1.2 КБ)
-
 
 </details>
 
