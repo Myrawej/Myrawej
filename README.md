@@ -42,23 +42,6 @@
 
 ---
 
-## 📊 Статистика разработки
-
-### Общее распределение языков программирования
-
-<div align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%20%22pie%22%2C%20%22data%22%3A%20%7B%22labels%22%3A%20%5B%22Go%22%2C%20%22C%23%22%2C%20%22TypeScript%22%2C%20%22Other%22%5D%2C%20%22datasets%22%3A%20%5B%7B%22data%22%3A%20%5B2978.0%2C%201682.8%2C%201204.7%2C%20534.3%5D%2C%20%22backgroundColor%22%3A%20%5B%22%23FF6384%22%2C%20%22%2336A2EB%22%2C%20%22%23FFCE56%22%2C%20%22%234BC0C0%22%5D%7D%5D%7D%2C%20%22options%22%3A%20%7B%22title%22%3A%20%7B%22display%22%3A%20true%2C%20%22text%22%3A%20%22%5Cu041e%5Cu0431%5Cu0449%5Cu0435%5Cu0435%20%5Cu0440%5Cu0430%5Cu0441%5Cu043f%5Cu0440%5Cu0435%5Cu0434%5Cu0435%5Cu043b%5Cu0435%5Cu043d%5Cu0438%5Cu0435%20%5Cu044f%5Cu0437%5Cu044b%5Cu043a%5Cu043e%5Cu0432%22%2C%20%22fontSize%22%3A%2016%7D%2C%20%22legend%22%3A%20%7B%22position%22%3A%20%22bottom%22%2C%20%22labels%22%3A%20%7B%22fontSize%22%3A%2012%7D%7D%2C%20%22tooltips%22%3A%20%7B%22callbacks%22%3A%20%7B%22label%22%3A%20%22function%28tooltipItem%2C%20data%29%20%7B%20const%20label%20%3D%20data.labels%5BtooltipItem.index%5D%3B%20const%20value%20%3D%20data.datasets%5B0%5D.data%5BtooltipItem.index%5D%3B%20const%20total%20%3D%20data.datasets%5B0%5D.data.reduce%28%28a%2C%20b%29%20%3D%3E%20a%20%2B%20b%2C%200%29%3B%20const%20percentage%20%3D%20Math.round%28%28value%20/%20total%29%20%2A%20100%29%3B%20return%20label%20%2B%20%5C%22%3A%20%5C%22%20%2B%20value%20%2B%20%5C%22%20%5Cu041a%5Cu0411%20%28%5C%22%20%2B%20percentage%20%2B%20%5C%22%25%29%5C%22%3B%20%7D%22%7D%7D%2C%20%22plugins%22%3A%20%7B%22datalabels%22%3A%20%7B%22formatter%22%3A%20%22%28value%2C%20context%29%20%3D%3E%20%7B%20const%20total%20%3D%20context.dataset.data.reduce%28%28a%2C%20b%29%20%3D%3E%20a%20%2B%20b%2C%200%29%3B%20const%20percentage%20%3D%20Math.round%28%28value%20/%20total%29%20%2A%20100%29%3B%20return%20percentage%20%3E%205%20%3F%20percentage%20%2B%20%5C%22%25%5C%22%20%3A%20%5C%22%5C%22%3B%20%7D%22%2C%20%22color%22%3A%20%22white%22%2C%20%22font%22%3A%20%7B%22weight%22%3A%20%22bold%22%7D%7D%7D%7D%7D&width=600&height=400&format=svg" alt="Общая статистика языков" />
-</div>
-
-**Сводка:**
-
-- 📂 **Репозиториев:** 8
-- 💻 **Всего коммитов:** 7834
-- ⏱️ **Время в коде:** 230.1 часов
-- 🔄 **Последнее обновление:** 18.06.2025 23:40
-
----
-
 ## 🎯 Области специализации
 
     - "🧠 Agentic Coding & Prompt Engineering"
